@@ -5,6 +5,8 @@
 
 appsettings.json
 
+node_modules
+
 # dotenv files
 .env
 
